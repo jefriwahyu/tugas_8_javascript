@@ -1,4 +1,4 @@
-# tugas_8_javascript
+# Tugas 8 Javascript
 
 <b>Tujuan : </b>
 <ul>
